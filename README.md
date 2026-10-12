@@ -2,7 +2,7 @@
 
 Name: Aidana Muratova
 
-Link:
+Link:https://muratovaajdana201-ctrl.github.io/assignment-4-web-aidanamuratova/
 ## Introduction
 
 In this assignment I learned how to make forms in HTML, how to style them with Bootstrap and how to check the data that a user writes in them. I made one registration form in index.html. In style.css I wrote a few small styles of my own. Bootstrap 5 is connected with a CDN link, so I did not download anything.
